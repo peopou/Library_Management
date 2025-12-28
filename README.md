@@ -89,7 +89,7 @@ Perusahaan ini memiliki 6 tabel sebagai berikut
 1. Buat database serta table sesuai data yang tersedia di postgree
 2. Input nilai tiap table (data) dan assign primary key nya
 3. Hubungkan relasi tiap table sesuai key
-4. Buat dahsboard visualisasi 
+4. Analisis insight dari data
 ```
 
 ## Stacks
