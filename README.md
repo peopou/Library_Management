@@ -98,8 +98,6 @@ bahasa pemrogaman
     - SQL
 database
     - postgresSQL
-visualization
-    - tableau
 ```
 
 ## Question
